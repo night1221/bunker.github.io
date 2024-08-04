@@ -1,0 +1,81 @@
+html,body{
+    height: 200%;
+    background-color:darkslategray ;
+}
+div{
+    text-align: center;
+}
+
+.opiss{
+    top: 0;
+    background: url(./apok.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 700px;
+    text-overflow: ellipsis;
+    
+}
+
+.qwe{
+    position:absolute;
+    left: 15%;
+    color: rgb(255, 123, 0);
+} 
+
+
+.kataclism{
+    height: 70px;
+    font-size:400%;
+    color: rgb(255, 123, 0);
+    
+}
+
+.vidstyp1{
+    height:50px;
+}
+
+.start_game{
+    width: 250px;
+    height: 50px;
+    font-size: 200%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.sosy{
+    color:darkolivegreen ;
+}
